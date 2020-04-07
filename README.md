@@ -31,11 +31,11 @@ Learning basic operation mathematics using Augmented Reality.
 ## Features
 * Will update soon.
 
-![image](https://user-images.githubusercontent.com/121827/77246980-a6796580-6c3d-11ea-80dd-57833a7c386a.png)
-![image](https://user-images.githubusercontent.com/121827/77247007-03751b80-6c3e-11ea-91fc-b3d535fda6a2.png)
+//![image](pic)
+//![image](pic)
 
 ## How Download
-### Only for android platform only.
+### Only for Android platform only.
 
 Will update later
 
