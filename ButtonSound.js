@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 [RequireComponent(typeof(Button))]
 
-public class butangBunyi : MonoBehaviour
+public class ButtonSound : MonoBehaviour
 {
     public AudioClip hover;
     public AudioClip click;
